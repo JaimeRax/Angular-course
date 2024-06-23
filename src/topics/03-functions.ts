@@ -1,0 +1,3 @@
+function addNumber() {}
+
+export {};
